@@ -1,3 +1,6 @@
+---
+recipe_name: Gingerbread Cake
+---
 Gingerbread Cake
 
 ½ Cup Shortening
