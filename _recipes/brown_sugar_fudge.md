@@ -1,3 +1,6 @@
+---
+recipe_name: Brown Sugar Fudge
+---
 Brown Sugar Fudge
 By Grammy Russell
 
