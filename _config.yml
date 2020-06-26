@@ -26,6 +26,13 @@ github_username: davidstraight
 collections:
   recipes:
     output: true
+    
+defaults:
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: recipe
 
 # Build settings
 markdown: kramdown
