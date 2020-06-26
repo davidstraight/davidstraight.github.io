@@ -1,5 +1,6 @@
 ---
 recipe_name: Blueberry Cake
+tags: Dessert Cake Baking
 ---
 Blueberry Cake
 By Grammy Russell
