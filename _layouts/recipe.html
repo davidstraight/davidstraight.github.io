@@ -1,5 +1,16 @@
+---
+layout: default
+---
 <article class="recipe">
-<div>
-   {{content}}
-</div>
+<h1>
+   {{page.recipe.name}}
+</h1>
+<ul class="unstyled">
+   {% for ingredient in page.recipe.ingredients %}
+   <li><input type="checkbox"> {{ ingredient }}</li>
+   {% endfor %}
+</ul>
+   {% for direction in page.recipe.directions %}
+   <p>{{ direction }}</p>
+   {% endfor %}
 </article>

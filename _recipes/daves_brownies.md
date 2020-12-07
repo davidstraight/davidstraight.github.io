@@ -1,3 +1,5 @@
 ---
-recipe_name: Dave's Brownies
+tags: Baking
+recipe:
+    name: Dave's Brownies
 ---

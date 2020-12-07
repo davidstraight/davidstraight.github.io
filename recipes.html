@@ -6,6 +6,6 @@ title: Recipes
 
 <ul>
   {% for recipe in site.recipes %}
-    <li><a href="{{ recipe.url }}">{{ recipe.recipe_name}}</a></li>
+    <li><a href="{{ recipe.url }}">{{ recipe.recipe.name}}</a></li>
   {% endfor %}
 </ul>
