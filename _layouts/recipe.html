@@ -3,14 +3,14 @@ layout: default
 ---
 <article class="recipe">
 <h1>
-   {{page.recipe.name}}
+   {{page.name}}
 </h1>
 <ul class="unstyled">
-   {% for ingredient in page.recipe.ingredients %}
+   {% for ingredient in page.ingredients %}
    <li><input type="checkbox"> {{ ingredient }}</li>
    {% endfor %}
 </ul>
-   {% for direction in page.recipe.directions %}
+   {% for direction in page.directions %}
    <p>{{ direction }}</p>
    {% endfor %}
 </article>
