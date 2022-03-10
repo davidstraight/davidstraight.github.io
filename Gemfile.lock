@@ -14,7 +14,7 @@ GEM
       execjs
     coffee-script-source (1.11.1)
     colorator (1.1.0)
-    commonmarker (0.17.13)
+    commonmarker (0.23.4)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.9)
     dnsruby (1.61.5)
@@ -68,7 +68,7 @@ GEM
       jekyll-theme-time-machine (= 0.1.1)
       jekyll-titles-from-headings (= 0.5.3)
       jemoji (= 0.11.1)
-      kramdown (= 1.17.0)
+      kramdown (= 2.3.1)
       liquid (= 4.0.3)
       mercenary (~> 0.3)
       minima (= 2.5.1)
