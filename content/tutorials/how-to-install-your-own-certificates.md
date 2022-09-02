@@ -1,22 +1,10 @@
 
-
-~~~~
-david@ThinkpadT420:~$ python3
-Python 3.8.5 (default, Jul 28 2020, 12:59:40) 
-[GCC 9.3.0] on linux
-Type "help", "copyright", "credits" or "license" for more information.
->>> import requests
->>> url = "https://192.168.1.254"
->>> r = requests.get(url, allow_redirects=True)
->>> print(r.contents)
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-AttributeError: 'Response' object has no attribute 'contents'
->>> r
-<Response [200]>
->>> print(r.content) 
-b'<!doctype html>\n<head>\n  <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />\n  <meta charset="utf-8">\n  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n 
-~~~~
++++
+title = "How to Install Your Own Certificates"
+date = "2022-09-02"
+author = "David Straight"
+description = "Tutorial to create and install certificates on your local network"
++++
 
 
 References:

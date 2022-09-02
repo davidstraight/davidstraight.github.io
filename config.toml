@@ -1,4 +1,4 @@
-baseURL = 'https://https://davidstraight.github.io/'
+baseURL = 'https://davidstraight.github.io/'
 languageCode = 'en-us'
 title = 'Random Thoughts of David Straight'
 theme = 'hugo-schwanky-theme'
