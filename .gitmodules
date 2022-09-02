@@ -1,0 +1,3 @@
+[submodule "themes/hugo-schwanky-theme"]
+	path = themes/hugo-schwanky-theme
+	url = git@github.com:davidstraight/hugo-schwanky-theme.git
